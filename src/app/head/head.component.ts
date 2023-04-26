@@ -9,6 +9,8 @@ export class HeadComponent implements OnInit {
 
   constructor() { }
 
+  lista = []
+
   ngOnInit(): void {
   }
 
